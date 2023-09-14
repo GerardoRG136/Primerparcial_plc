@@ -1,0 +1,5 @@
+#este código es de una función
+def función():
+  #aqui va una función
+
+función()
